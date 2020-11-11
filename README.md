@@ -10,7 +10,7 @@ a small two screen app to browse flights tickets.
 
 # Screens
 **Home screen** 
-![Home screen](https://media.giphy.com/media/MkRA99qyvQVeFcQTJf/giphy.gif)
+![](https://media.giphy.com/media/MkRA99qyvQVeFcQTJf/giphy.gif)
 
 
 
@@ -18,7 +18,7 @@ a small two screen app to browse flights tickets.
 
 
 **Ticket screen**
-![ticket screen](https://media.giphy.com/media/JD4WGIsF4U1Sl0jfEH/giphy.gif)
+![](https://media.giphy.com/media/JD4WGIsF4U1Sl0jfEH/giphy.gif)
 
 
 
