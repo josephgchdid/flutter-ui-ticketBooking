@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class ApiRequest {
    String _cityUrl = "http://airlabs.co/api/v6";
-   String _cityKey = "738a2cac-6d56-489d-bdc1-5eaf0be0f80b";
+   String _cityKey = "YOUR_API_KEY_HERE";
 
   
   Future<http.Response> fetchCountries() async{
